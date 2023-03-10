@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+}
+
+.card {
+    width: 500px;
+    height: fit-content;
+    background-color: antiquewhite;
+    margin: 10;
+    font-family: cursive;
+}
+
+.borda-card {
+    border: 3px solid rgb(171, 125, 245);
+}
+
+.perfil {
+    width: 100px;
+    height: 100px;
+    background-color: rgb(171, 125, 245);
+}
+
+.icon {
+    width: 100%;
+    height: 100%;
+}
+
+h1 {
+    color: rosybrown;
+}
+
+p {
+    color: rgb(171, 125, 245);
+}
+
+span {
+    color: brown;
+}
